@@ -1,0 +1,10 @@
+>>> str1 = 'hello, '
+>>> str2 = 'how are you?'
+>>> str3 = str1 + str2
+'hello, how are you?'
+
+Str3[3:] = l
+Str3[-3:] = y
+Str3[2:9:3] = l,o
+Str3[::-2] = u?
+Str3[2:8] = llo, ho
